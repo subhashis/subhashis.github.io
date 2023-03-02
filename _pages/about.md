@@ -7,9 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Currently, I am working as a Member of Research Staff at Palo Alto Research Center (PARC). I am part of the Complex Systems Analytics team, within the Intelligence Systems Lab at PARC. My research interest lies at the intersection of machine learning, scientific visualization and explainable AI.
+Currently, I am working as a Member of Research Staff at Palo Alto Research Center (PARC). My research interest lies at the intersection of machine learning, statistical data-modeling, scientific visualization and explainable AI. I am interested in the application of interpretable machine learning models, coupled with interactive visualization techniques to design effective data analysis workflows and frameworks for a wide variety of scientific application domains.
 
-Prior to joining PARC, I was a Postdoctoral Researcher at the Information Sciences Group of [Los Alamos National Laboratory](https://pages.github.com) (LANL). I graduated with a Ph.D. and an M.S. from the Department of Computer Science & Engineering of The Ohio State University in 2019. At Ohio State, I was a member of the GRAphics and VIsualization sTudY (GRAVITY) research group led by my advisor, Dr. Han-Wei Shen. I completed my Bachelor’s in Computer Science & Engineering from National Institute of Technology, Durgapur, West Bengal (India) in 2011.
+At PARC, I am part of the Complex Systems Analytics team, within the Intelligence Systems Lab. Prior to joining PARC, I was a Postdoctoral Researcher at the Data Science at Scale Group of Los Alamos National Laboratory (LANL). I graduated with a Ph.D. and an M.S. from the Department of Computer Science & Engineering of The Ohio State University in 2019. At Ohio State, I was a member of the GRAphics and VIsualization sTudY (GRAVITY) research group led by my advisor, Dr. Han-Wei Shen. I completed my Bachelor’s in Computer Science & Engineering from National Institute of Technology, Durgapur, West Bengal (India) in 2011.
+
+**Research Interest:**
+* Multimodal Machine Learning for Medical Image Analysis
+* Graph Neural Networks and Explainability in Scientific Applications
+* Machine Learning-assisted Design of Interactive Visual Analytics
+* In situ Data Analysis of Large-Scale Scientific Simulations
+* Distribution-based Probabilistic Feature Extraction & Visualization
+* Multivariate and Ensemble Data Analysis & Visualization
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
