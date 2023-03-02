@@ -25,17 +25,17 @@ Work experience
   * Intelligent Systems Lab \| Palo Alto Research Center Inc. \| *July 2021 - present*
 
 * **Postdoctoral Researcher**
-  * Data Science at Scale Team \| Information Sciences (CCS-3) \| Los Alamos National Laboratory \| *Jan. 2020 - July 2021*
+  * Information Sciences (CCS-3) \| Los Alamos National Laboratory \| *Jan. 2020 - July 2021*
 
 * **Graduate Research Assistance**
   * Gravity Research Group \| The Ohio State University \| *May 2014 - Dec. 2019*
 
 * **Graduate Research Intern**
-  * Data Science at Scale Team \| Applied Comp. Science (CCS-7) \| Los Alamos National Laboratory \| *Summer 2019*
-  * Programming Models Team \| Applied Comp. Science (CCS-7) \| Los Alamos National Laboratory \| *Summer 2017*
+  * Applied Comp. Science (CCS-7) \| Los Alamos National Laboratory \| *Summer 2019*
+  * Applied Comp. Science (CCS-7) \| Los Alamos National Laboratory \| *Summer 2017*
   
 * **Graduate Teaching Assistant**
-  * Intro to Comp. Programming in C++ \| Dept. of Computer Sc. & Engineering, Ohio State University \| *Aug 2014- April 2016*
+  * Intro to Comp. Programming in C++ \| Ohio State University \| *Aug 2014- April 2016*
   
 * **Senior Software Engineer**
   * Novell Software Development (India) Pvt. Ltd. \| Bangalore, India \| *June 2011 - May 2013*
