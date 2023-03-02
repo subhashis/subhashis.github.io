@@ -13,7 +13,7 @@ Education
 ======
 * Doctor of Philosophy (Ph.D.) & Master of Science (M.S.)
   * *Computer Science & Engineering, The Ohio State University (2013 - 2019)*
-  * *<ins>Major</ins>: Computer Graphics and Data Visualization | <ins>Minor</ins>: Artificial Intelligence, High Performance Computing*
+  * *<ins>Major</ins>: Computer Graphics and Data Visualization* \| *<ins>Minor</ins>: Artificial Intelligence, High Performance Computing*
   * *<ins>Thesis</ins>: Statistical and Machine Learning Approaches for Visualizing and Analyzing Large-Scale Simulation Data*
   
 * Bachelor of Technology (B.Tech.)
