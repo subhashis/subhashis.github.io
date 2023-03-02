@@ -11,49 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Doctor of Philosophy (Ph.D.) & Master of Science (M.S.)
+  * *Computer Science & Engineering, The Ohio State University (2013 - 2019)*
+  * *<ins>Major</ins>: Computer Graphics and Data Visualization | <ins>Minor</ins>: Artificial Intelligence, High Performance Computing*
+  * *<ins>Thesis</ins>: Statistical and Machine Learning Approaches for Visualizing and Analyzing Large-Scale Simulation Data*
+  
+* Bachelor of Technology (B.Tech.)
+  * *Computer Science & Engineering, National Institute of Technology, Durgapur, India (2007 - 2011)*
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Scientist
+  * *Intelligent Systems Lab | Palo Alto Research Center Inc. | July 2021 - present*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Postdoctoral Researcher
+  * *Data Science at Scale Team | Information Sciences (CCS-3) | Los Alamos National Laboratory | Jan. 2020 - July 2021*
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Graduate Research Assistance
+  * *Gravity Research Group | The Ohio State University | May 2014 - Dec. 2019*
+
+* Graduate Research Intern
+  * *Data Science at Scale Team | Applied Comp. Science (CCS-7) | Los Alamos National Laboratory | Summer 2019*
+  * *Programming Models Team | Applied Comp. Science (CCS-7) | Los Alamos National Laboratory | Summer 2017*
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Graduate Teaching Assistant
+  * *Intro to Comp. Programming in C++ | Dept. of Computer Sc. & Engineering, Ohio State University | Aug 2014- April 2016*
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Senior Software Engineer
+  * *Novell Software Development (India) Pvt. Ltd. | Bangalore, India | June 2011 - May 2013*
   
-Service and leadership
+* Undergraduate Intern
+  * *European Organization for Nuclear Research (CERN)  | Geneva, Switzerland | Summer 2010*
+  
+Honors & Awards
 ======
-* Currently signed in to 43 different slack teams
+* Excellence in Technical Leadership at PARC, 2022
+* Keynote Speaker at ICMLIP 2020 (Hyderabad, India)
+* Best Paper Honorable Mention Award at IEEE Visualization Conference, 2019 (Vancouver, Canada)
+* Recipient of O’Donnell Graduate Fellowship for Ph.D., 2013
+* Selected for the Summer Student Program at CERN, Geneva, 2010
+
