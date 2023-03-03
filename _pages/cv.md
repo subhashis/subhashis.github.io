@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * **Doctor of Philosophy (Ph.D.)** & **Master of Science (M.S.)**
   * Computer Science & Engineering, The Ohio State University (2013 - 2019)
   * <ins>Major</ins>: Computer Graphics and Data Visualization \| <ins>Minor</ins>: Artificial Intelligence, High Performance Computing
@@ -20,7 +20,7 @@ Education
   * Computer Science & Engineering, National Institute of Technology, Durgapur, India (2007 - 2011)
 
 Work experience
-======
+------
 * **Research Scientist II**
   * Intelligent Systems Lab \| Palo Alto Research Center Inc. \| *July 2021 - present*
 
@@ -44,7 +44,7 @@ Work experience
   * European Organization for Nuclear Research (CERN)  \| Geneva, Switzerland \| *Summer 2010*
   
 Honors & Awards
-======
+------
 * Excellence in Technical Leadership at PARC, 2022
 * Keynote Speaker at ICMLIP 2020 (Hyderabad, India)
 * Best Paper Honorable Mention Award at IEEE Visualization Conference, 2019 (Vancouver, Canada)
