@@ -41,7 +41,7 @@ Work experience
   * Novell Software Development (India) Pvt. Ltd. \| Bangalore, India \| *June 2011 - May 2013*
   
 * **Undergraduate Intern**
-  * European Organization for Nuclear Research (CERN)  \| Geneva, Switzerland \| *Summer 2010*
+  * European Organization for Nuclear Research (CERN)  \| Geneva, Switzerland \| *Summer 2010* 
   
 Honors & Awards
 ------
