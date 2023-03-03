@@ -16,8 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 <details>
-<summary>Abstract</summary>
-<br>
+<summary><font color='red'>**Abstract**</font></summary>
 This is how you dropdown.
 </details>
 
