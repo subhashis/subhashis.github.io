@@ -4,19 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} -->
-
 {% include base_path %}
-
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
-
-
 Peer-reviewed Journal and Conference Articles
 ------
 - **Subhashis Hazarika**, Ayan Biswas, Earl Lawrence, Phillip J. Wolfram: "_Probabilistic Principal Component Analysis Guided Spatial Partitioning of Multivariate Ocean Biogeochemistry Data_", Workshop on Visualization in Environmental Sciences (EnvirVis), EuroVis 2021, DOI: 10.2312/envirvis.20211078.
