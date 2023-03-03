@@ -1,16 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Peer-reviewed Journal and Conference Articles
+======
+* **Subhashis Hazarika**, Ayan Biswas, Earl Lawrence, Phillip J. Wolfram: “Probabilistic Principal Component Analysis Guided Spatial Partitioning of Multivariate Ocean Biogeochemistry Data”, Workshop on Visualization in Environmental Sciences (EnvirVis), EuroVis 2021, DOI: 10.2312/envirvis.20211078.
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* **Subhashis Hazarika**, Ayan Biswas, Phillip J. Wolfram, Earl Lawrence, Nathan Urban:“Relationship-aware Multivariate Sampling Strategy for Scientific Simulation Data”, 2020 IEEE VisualizationConference (VIS), DOI: 10.1109/VIS47514.2020.00015.
