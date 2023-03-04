@@ -15,3 +15,18 @@ Academic Services
   - IEEE Visualization Conference 2018,  Berlin, Germany
   - IEEE Visualization Conference 2017, Phoenix, AZ
 
+Reviewer
+------
+- IEEE Transactions of Visualization and Computer Graphics
+- IEEE Visualization Conference
+- IEEE Transactions of Network Sciences and Engineering
+- IEEE PacificVis Conference
+- EuroVis Conference
+- MDPI Journals:
+  - Applied Sciences, Mathematics, Sensor, Imaging, Entropy, Sustainability
+- Computer Graphics Forum (EuroVis STARs)
+- International Symposium on Visual Computing (ISVC)
+- International Conference on Physics, Mathematics and  Statistics (ICPMS)
+- International Conference on Machine Learning and Information Processing (ICMLIP)
+
+
