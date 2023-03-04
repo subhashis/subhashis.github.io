@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 {% include base_path %}
-Peer-reviewed Journal and Conference Articles
+Talks and Presentation
 ------
 - “_Statistical and Machine Learning Approaches for Visualizing Large-Scale Simulation Data_”, Early career research talk at U.S. Department of Energy Computer Graphics Forum (DOECGF), 2021. (Virtual)
 - “_In Situ Inference: Advanced Data Science for Space Weather Modeling_”, Application Spotlight talk at IEEE Visualization Conference 2021, New Orleans, USA.
@@ -18,3 +18,4 @@ Peer-reviewed Journal and Conference Articles
 - “_Uncertainty Visualization Using Copula-Based Analysis in Mixed Distribution Models_”, Paper presentation at IEEE Visualization Conference 2018, Arizona, USA.
 - “_Visualizing the life and anatomy of dark matter_”, Paper presentation at IEEE Visualization Conference2015, Illinois, USA.
 
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
