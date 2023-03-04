@@ -5,6 +5,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Link to full version (PDF)[https://drive.google.com/file/d/110LaVOVorAA7bfu1bBVkWpTcRizjo1EZ/view]
+
 Education
 ------
 * **Doctor of Philosophy (Ph.D.)** & **Master of Science (M.S.)**
