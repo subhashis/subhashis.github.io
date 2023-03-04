@@ -1,5 +1,4 @@
 ---
-title: ""
 permalink: /services/
 author_profile: true
 ---
@@ -14,3 +13,4 @@ Academic Services
 - **Student Volunteer**
   - IEEE Visualization Conference 2018,  Berlin, Germany
   - IEEE Visualization Conference 2017, Phoenix, AZ
+
