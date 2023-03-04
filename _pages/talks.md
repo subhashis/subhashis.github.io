@@ -1,10 +1,8 @@
 ---
-layout: archive
 title: ""
 permalink: /talks/
 author_profile: true
 ---
-{% include base_path %}
 Talks and Presentation
 ------
 - “_Statistical and Machine Learning Approaches for Visualizing Large-Scale Simulation Data_”, Early career research talk at U.S. Department of Energy Computer Graphics Forum (DOECGF), 2021. (Virtual)
