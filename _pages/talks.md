@@ -21,4 +21,4 @@ Talks and Presentation
 Selected Talk Videos
 ------
 
-[![Watch the video](https://img.youtube.com/vi/6iDfqljW9mc/default.jpg)](https://youtu.be/6iDfqljW9mc) [![Watch the video](https://img.youtube.com/vi/6iDfqljW9mc/default.jpg)](https://youtu.be/6iDfqljW9mc) [![Watch the video](https://img.youtube.com/vi/6iDfqljW9mc/default.jpg)](https://youtu.be/6iDfqljW9mc)
+[![Watch the video](https://img.youtube.com/vi/6iDfqljW9mc/default.jpg)](https://youtu.be/6iDfqljW9mc) [![Watch the video](https://img.youtube.com/vi/i6ozt0uTw9E/default.jpg)](https://youtu.be/i6ozt0uTw9E) [![Watch the video](https://img.youtube.com/vi/mL3vMr1GxOY/default.jpg)](https://youtu.be/mL3vMr1GxOY)
