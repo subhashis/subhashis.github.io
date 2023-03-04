@@ -18,4 +18,7 @@ Talks and Presentation
 - “_Uncertainty Visualization Using Copula-Based Analysis in Mixed Distribution Models_”, Paper presentation at IEEE Visualization Conference 2018, Arizona, USA.
 - “_Visualizing the life and anatomy of dark matter_”, Paper presentation at IEEE Visualization Conference2015, Illinois, USA.
 
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+Selected Talk Videos
+------
+
+[![Watch the video](https://img.youtube.com/vi/6iDfqljW9mc/default.jpg)](https://youtu.be/6iDfqljW9mc) [![Watch the video](https://img.youtube.com/vi/6iDfqljW9mc/default.jpg)](https://youtu.be/6iDfqljW9mc) [![Watch the video](https://img.youtube.com/vi/6iDfqljW9mc/default.jpg)](https://youtu.be/6iDfqljW9mc)
