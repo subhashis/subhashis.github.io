@@ -5,6 +5,7 @@ author_profile: true
 ---
 Talks and Presentation
 ------
+- "_Interactive Visual Analytics to Study the Impacts of Cloud Radiative Properties on Climate Patterns_", AGU Fall Meeting 2022, Chicago, Illinois, USA.
 - “_Statistical and Machine Learning Approaches for Visualizing Large-Scale Simulation Data_”, Early career research talk at U.S. Department of Energy Computer Graphics Forum (DOECGF), 2021. (Virtual)
 - “_In Situ Inference: Advanced Data Science for Space Weather Modeling_”, Application Spotlight talk at IEEE Visualization Conference 2021, New Orleans, USA.
 - “_Probabilistic Principal Component Analysis Guided Spatial Partitioning of Multivariate Ocean Biogeochemistry Data_”, Paper presentation at Workshop on Visualization in Environmental Sciences, EuroVis 2021, Zurich, Switzerland.
