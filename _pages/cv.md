@@ -19,8 +19,11 @@ Education
 
 Work experience
 ------
-* **Research Scientist II**
-  * Intelligent Systems Lab \| Palo Alto Research Center Inc. \| *July 2021 - present*
+* **Advanced Computer Scientist**
+  * Intelligent Systems Lab, PARC \| SRI International \| *May 2023 - present*
+  
+* **Machine Learning Scientist**
+  * Intelligent Systems Lab \| Palo Alto Research Center Inc. \| *July 2021 - April 2023*
 
 * **Postdoctoral Researcher**
   * Information Sciences (CCS-3) \| Los Alamos National Laboratory \| *Jan. 2020 - July 2021*
