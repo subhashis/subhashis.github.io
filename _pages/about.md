@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Currently, I am working as a Member of Research Staff at Palo Alto Research Center ([PARC](https://www.parc.com/)). My research lies at the intersection of machine learning, scientific visualization and explainable AI. I am interested in developing statistical and machine learning models, coupled with interactive visualization techniques to design effective data analysis and exploration workflows for a wide variety of scientific application domains.
+Currently, I am working as an Advanced Computer Scientist at Palo Alto Research Center ([PARC](https://www.parc.com/)), part of [SRI International](https://www.sri.com/). My research lies at the intersection of machine learning, scientific visualization and explainable AI. I am interested in developing statistical and AI/ML models, coupled with interactive visualization techniques to design effective analysis and exploration workflows for a wide variety of scientific application domains.
 
 At PARC, I am part of the Complex Systems Analytics team, within the Intelligence Systems Lab. I am involved in several government and commercially funded interdisciplinary data science projects in the area of climate science, healthcare, and sensor analytics. Prior to joining PARC, I was a Postdoctoral Researcher at the Data Science at Scale Group of Los Alamos National Laboratory ([LANL](https://www.lanl.gov/org/ddste/aldsc/computer-computational-statistical-sciences/index.php)). I graduated with a Ph.D. and an M.S. from the Department of Computer Science & Engineering of The Ohio State University in 2019. At Ohio State, I was a member of the GRAphics and VIsualization sTudY (GRAVITY) research group led by my advisor, [Dr. Han-Wei Shen](https://han-wei-shen.github.io/). I completed my Bachelor’s in Computer Science & Engineering from National Institute of Technology, Durgapur, West Bengal (India) in 2011.
 
@@ -18,6 +18,18 @@ At PARC, I am part of the Complex Systems Analytics team, within the Intelligenc
 * In situ Data Analysis of Large-Scale Scientific Simulations
 * Distribution-based Probabilistic Feature Extraction & Visualization
 * Multivariate and Ensemble Data Analysis & Visualization
+
+**Relevant Research Projects and Fundings:**
+*  NASA Advanced Information Systems Technology: 21-AIST21_2-0091
+   * DTAS: A prototype Digital Twin of Air-Sea interactions
+   * Role: Co-PI \| PI: Dr. A. Gray \| Team: University of Washington, PARC \| Amount: $500K
+*  DARPA Artificial Intelligence Exploration (AIE) Program for _AI-assisted Climate Tipping-point Modeling (ACTM)_: DARPA-PA-21-04-02
+   * AIBEDO: A hybrid AI framework to capture the effects of cloud properties on global circulation and regional climate patterns
+   * Role: Co-Investigator \| PI: Dr. K. Ramea \| Team: PARC, University of Victoria \| Amount: $1M
+* Palo Alto Research Center Exploratory Research Projects:
+   * EDDY: Explaining AI-based Drug DiscoverY Models \[Role: PI\]
+   * MedVQA: Medical Visual Question Answering with Cognitive Reasoning \[Role: PI\]
+
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
