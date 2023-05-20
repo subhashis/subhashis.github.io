@@ -20,10 +20,10 @@ At PARC, I am part of the Complex Systems Analytics team, within the Intelligenc
 * Multivariate and Ensemble Data Analysis & Visualization
 
 **Relevant Research Projects and Fundings:**
-*  NASA Advanced Information Systems Technology: 21-AIST21_2-0091 (Amount: $500K)
+*  NASA Advanced Information Systems Technology: 21-AIST21_2-0091
    * DTAS: A prototype Digital Twin of Air-Sea interactions
    * Role: Co-PI \| PI: Dr. A. Gray \| Team: University of Washington, PARC 
-*  DARPA Artificial Intelligence Exploration (AIE) Program for AI-assisted Climate Tipping-point Modeling (ACTM): DARPA-PA-21-04-02 (Amount: $1M)
+*  DARPA Artificial Intelligence Exploration (AIE) Program for AI-assisted Climate Tipping-point Modeling (ACTM): DARPA-PA-21-04-02
    * AIBEDO: A hybrid AI framework to capture the effects of cloud properties on global circulation and regional climate patterns
    * Role: Co-Investigator \| PI: Dr. K. Ramea \| Team: PARC, University of Victoria
 * Palo Alto Research Center Exploratory Research Projects:
