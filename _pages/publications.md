@@ -5,6 +5,7 @@ author_profile: true
 ---
 Peer-reviewed Journal and Conference Articles
 ------
+- **Subhashis Hazarika**, Haruki Hirasawa, Sookyung Kim, Kalai Ramea, Salva R Cachay, Peetak Mitra, Dipti Hingmire, Hansi Singh, Phil J Rasch: "_HAiVA: Hybrid AI-assisted Visual Analysis Framework to Study the Effects of Cloud Properties on Climate Patterns_", arXiv preprint arXiv:2305.07859, 2023 (accepted at IEEE Vis 2023)
 - Raman Goyal, Dhrubajit Chowdhury, **Subhashis Hazarika**, Raj Pradip Khawale, Shubhendu Kumar Singh, Lara Crawford, Rahul Rai: "_Hybrid Machine Learning and Autonomous Control assisted Framework for Fault Diagnostics and Mitigation in Diesel Engines_", Artificial Intelligence Applications and Innovations. AIAI 2023. IFIP Advances in Information and Communication Technology, vol 676. Springer, Cham. DOI: 10.1007/978-3-031-34107-6_26
 - **Subhashis Hazarika**, Ayan Biswas, Earl Lawrence, Phillip J. Wolfram: "_Probabilistic Principal Component Analysis Guided Spatial Partitioning of Multivariate Ocean Biogeochemistry Data_", Workshop on Visualization in Environmental Sciences (EnvirVis), EuroVis 2021, DOI: 10.2312/envirvis.20211078.
 - **Subhashis Hazarika**, Ayan Biswas, Phillip J. Wolfram, Earl Lawrence, Nathan Urban:"_Relationship-aware Multivariate Sampling Strategy for Scientific Simulation Data_", 2020 IEEE VisualizationConference (VIS), DOI: 10.1109/VIS47514.2020.00015.
@@ -25,7 +26,6 @@ Book Chapters
 
 Preprints, Abstracts and White Papers
 ------
-- **Subhashis Hazarika**, Haruki Hirasawa, Sookyung Kim, Kalai Ramea, Salva R Cachay, Peetak Mitra, Dipti Hingmire, Hansi Singh, Phil J Rasch: "_HAiVA: Hybrid AI-assisted Visual Analysis Framework to Study the Effects of Cloud Properties on Climate Patterns_", arXiv preprint arXiv:2305.07859, 2023 (under review)
 - Soo Kyung Kim, Kalai Ramea, Salva Rühling Cachay, Haruki Hirasawa, **Subhashis Hazarika**, Dipti Hingmire, Peetak Mitra, Philip J Rasch, Hansi A Singh: "_Climate Intervention Analysis using AI Model Guided by Statistical Physics Principles_", arXiv preprint arXiv:2302.03258, 2023 (under review)
 - Haruki Hirasawa, Sookyung Kim, Peetak Mitra, **Subhashis Hazarika**, Salva Ruhling-Cachay, Dipti Hingmire, Kalai Ramea, Hansi Singh, Philip J Rasch: "_Accelerating exploration of Marine Cloud Brightening impacts on tipping points Using an AI Implementation of Fluctuation-Dissipation Theorem_", arXiv preprint arXiv:2302.01957, 2023
 - Dipti Swapnil Hingmire, Hansi Alice Singh, Haruki Hirasawa, Phil Rasch, Linda Hedges, Brian Dobbins, Peetak Mitra, **Subhashis Hazarika**, Soo Kyung Kim, Kalai Ramea: "_Will correcting cloud radiative biases over the Southern Ocean improve precipitation biases over the Indian subcontinent in CESM2 simulations?_": AGU Fall Meeting 2022
