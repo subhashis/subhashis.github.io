@@ -19,8 +19,11 @@ Education
 
 Work experience
 ------
+* **Principal Researcher**
+  * Fujitsu Research of America Inc. (FRA) \| *Feb 2024 - present*
+    
 * **Advanced Computer Scientist**
-  * Intelligent Systems Lab, PARC \| SRI International \| *May 2023 - present*
+  * Intelligent Systems Lab, PARC \| SRI International \| *May 2023 - Feb 2024*
   
 * **Machine Learning Scientist**
   * Intelligent Systems Lab \| Palo Alto Research Center Inc. \| *July 2021 - April 2023*
