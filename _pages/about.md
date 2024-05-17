@@ -19,7 +19,7 @@ At PARC, I am part of the Complex Systems Analytics team, within the Intelligenc
 * Distribution-based Probabilistic Feature Extraction & Visualization
 * Multivariate and Ensemble Data Analysis & Visualization
 
-**Relevant Research Project Leadership:**
+<!-- **Relevant Research Project Leadership:**
 *  NASA Advanced Information Systems Technology: 21-AIST21_2-0091
    * DTAS: A prototype Digital Twin of Air-Sea interactions
    * Role: Co-PI \| PI: Dr. A. Gray \| Team: University of Washington, PARC 
@@ -28,7 +28,7 @@ At PARC, I am part of the Complex Systems Analytics team, within the Intelligenc
    * Role: Co-Investigator \| PI: Dr. K. Ramea \| Team: PARC, University of Victoria
 * Palo Alto Research Center Exploratory Research Projects:
    * EDDY: Explaining AI-based Drug DiscoverY Models \[Role: PI\]
-   * MedVQA: Medical Visual Question Answering with Cognitive Reasoning \[Role: PI\]
+   * MedVQA: Medical Visual Question Answering with Cognitive Reasoning \[Role: PI\] -->
 
 
 
