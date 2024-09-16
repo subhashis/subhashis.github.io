@@ -35,6 +35,7 @@ Patents
 
 Preprints, Abstracts and White Papers
 ------
+- Shreya Rajagopal, **Subhashis Hazarika**, Sookyung Kim, Yan-ming Chiou, Jae Ho Sohn, Hari Subramonyam, Shiwali Mohan: "_Are Generative AI systems Capable of Supporting Information Needs of Patients?_", arXiv preprint arXiv:2402.00234, 2024
 - Haruki Hirasawa, Sookyung Kim, Peetak Mitra, **Subhashis Hazarika**, Salva Ruhling-Cachay, Dipti Hingmire, Kalai Ramea, Hansi Singh, Philip J Rasch: "_Accelerating exploration of Marine Cloud Brightening impacts on tipping points Using an AI Implementation of Fluctuation-Dissipation Theorem_", arXiv preprint arXiv:2302.01957, 2023
 - Dipti Swapnil Hingmire, Hansi Alice Singh, Haruki Hirasawa, Phil Rasch, Linda Hedges, Brian Dobbins, Peetak Mitra, **Subhashis Hazarika**, Soo Kyung Kim, Kalai Ramea: "_Will correcting cloud radiative biases over the Southern Ocean improve precipitation biases over the Indian subcontinent in CESM2 simulations?_": AGU Fall Meeting 2022
 - **Subhashis Hazarika**, Kalai Ramea, Soo Kyung Kim, Peetak Mitra, Salva Ruhling Cachay, Haruki Hirasawa, Dipti Swapnil Hingmire, Hansi Alice Singh, Phil Rasch: "_Interactive Visual Analytics to Study the Impacts of Cloud Radiative Properties on Climate Patterns_", AGU Fall Meeting 2022
