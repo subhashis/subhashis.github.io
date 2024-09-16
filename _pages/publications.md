@@ -3,8 +3,11 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-Peer-reviewed Journal and Conference Articles
+Peer-reviewed Journal and Conference Articles (ordered by year of publication)
 ------
+- J Ahrens, M Arienti, U Ayachit, J Bennett, H Carr, R Binyahib, P-T Bremer, E Brugger, R Bujack, J Chen, H Childs, S Dutta, A Essiari, B Geveci, C Harrison, **S Hazarika**, ML Hickman Fulp, PG Hristov, X Huang, J Insley, Y Kawakami, C Keilers, J Kress, M Larsen, D Lipsa, M Majumder, N Marsaglia, V Mateevitsi, V Pascucci, J Patchett, S Patel, S Petruzza, D Pugmire, S Rizzi, D Rogers, O Ruebel, J Salinas, S Sane, S Shudler, A Stewart, K Tsai, T Turton, W Usher, Z Wang, G Weber, C Wetterer-Nelson, J Woodring, A Yenpure: "_The ECP ALPINE project: In Situ and Post Hoc Visualization Infrastructure and Analysis Capabilities for Exascale_", International Journal of High Performance Computing Applications, SAGE  ISSN 1094-3420 (In Press)
+- Shubhendu Kumar Singh, Raj Pradip Khawale, **Subhashis Hazarika**, Ankur Bhatt, Brian Gainey, Benjamin Lawler, Rahul Rai: "_Hybrid physics-infused 1D-CNN based deep learning framework for diesel engine fault diagnostics_", Neural Computing and Applications, 2024, Springer London.
+- Dipti Hingmire, Haruki Hirasawa, Hansi Singh, Phil J Rasch, Sookyung Kim, **Subhashis Hazarika**, Peetak Mitra, Kalai Ramea: "_South Asian Summer Monsoon Precipitation Is Sensitive to Southern Hemisphere Subtropical Radiation Changes_", Geophysical Research Letters, Vol. 51, 2024, DOI: 10.1029/2024GL108499
 - **Subhashis Hazarika**, Haruki Hirasawa, Sookyung Kim, Kalai Ramea, Salva R Cachay, Peetak Mitra, Dipti Hingmire, Hansi Singh, Phil J Rasch: "_HAiVA: Hybrid AI-assisted Visual Analysis Framework to Study the Effects of Cloud Properties on Climate Patterns_", 2023 IEEE Visualization and Visual Analytics (VIS), DOI: 10.1109/VIS54172.2023.00054.
 - Raman Goyal, Dhrubajit Chowdhury, **Subhashis Hazarika**, Raj Pradip Khawale, Shubhendu Kumar Singh, Lara Crawford, Rahul Rai: "_Hybrid Machine Learning and Autonomous Control assisted Framework for Fault Diagnostics and Mitigation in Diesel Engines_", Artificial Intelligence Applications and Innovations. AIAI 2023. IFIP Advances in Information and Communication Technology, vol 676. Springer, Cham. DOI: 10.1007/978-3-031-34107-6_26
 - Soo Kyung Kim, Kalai Ramea, Salva Rühling Cachay, Haruki Hirasawa, **Subhashis Hazarika**, Dipti Hingmire, Peetak Mitra, Philip J Rasch, Hansi A Singh: "_Climate Intervention Analysis using AI Model Guided by Statistical Physics Principles_", 32nd ACM International Conference on Information and Knowledge Management, CIKM 2023.
@@ -26,6 +29,10 @@ Book Chapters
 ------
 - Soumya Dutta, **Subhashis Hazarika**, Han-Wei Shen: “_In Situ Statistical Distribution-based Data Summarization and Visual Analysis_”, In Situ Visualization for Computational Science, 2021. Publisher:Springer.
 
+Patents
+------
+- M. Adil, R. Goyal, S. Mustafavi, **S. Hazarika**, and D. Schwartz: “_Method and system for scalable embedded model predictive control of HVAC systems_”, US Patent App. 18/089,948 US20240230130A1
+
 Preprints, Abstracts and White Papers
 ------
 - Haruki Hirasawa, Sookyung Kim, Peetak Mitra, **Subhashis Hazarika**, Salva Ruhling-Cachay, Dipti Hingmire, Kalai Ramea, Hansi Singh, Philip J Rasch: "_Accelerating exploration of Marine Cloud Brightening impacts on tipping points Using an AI Implementation of Fluctuation-Dissipation Theorem_", arXiv preprint arXiv:2302.01957, 2023
@@ -38,4 +45,4 @@ Preprints, Abstracts and White Papers
 - Peetak Mitra, Dipti Swapnil Hingmire, Haruki Hirasawa, Salva Ruhling Cachay, **Subhashis Hazarika**, Soo Kyung Kim, Phil Rasch, Hansi Alice Singh, Kalai Ramea: "_On incorporating first principles based physical conservation laws into global climate emulators_", AGU Fall Meeting 2022
 - Aditi Mishra, **Subhashis Hazarika**, Ayan Biswas, Chris Bryan: "_Filling the Void: Deep Learning-based Reconstruction of Sampled Spatiotemporal Scientific Simulation Data_", OSF Preprints, 2022
 - Steven Morley, Natalie Klein, Divya Banesh, **Subhashis Hazarika**, Vania Jordanova, Michael Henderson, Earl Lawrence, Ayan Biswas: "_Objective and scalable feature identification and analysis in high-resolution simulations: Application to bursty bulk flows_", AGU Fall Meeting 2021
-- Ayana Ghosh, Dennis P Trujillo, **Subhashis Hazarika**, Elizabeth Schiesser, Jian-Xin Zhu, Serge Nakhmanson: "_Identification of novel organic ferroelectrics: A study combining importance sampling with machine learning_", arXiv preprint arXiv:2108.13206, 2021 
+
