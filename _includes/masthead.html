@@ -13,7 +13,7 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item">{% if link.url contains 'http' %}<a href="{{ domain }}{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.title }}</a>{% else %}<a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>{% endif %}</li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
