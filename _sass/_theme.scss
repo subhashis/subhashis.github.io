@@ -139,6 +139,17 @@ body {
   color: var(--accent) !important;
 }
 
+/* Remove focus ring on mouse click; keep it for keyboard Tab navigation. */
+.greedy-nav a:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.greedy-nav a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
 .greedy-nav button .navicon,
 .greedy-nav button .navicon::before,
 .greedy-nav button .navicon::after {
